@@ -1,3 +1,6 @@
+# Zero Fusion Patcher
+This is a fork of [Rom Patcher JS](https://github.com/marcrobledo/RomPatcher.js), made specifically for patching Zero Fusion seeds. The only change is that the option to pick both Fusion and ZM ROMs has been added, allowing you to merge both before patching.
+
 # Rom Patcher JS
 A ROM patcher made in Javascript.
 

@@ -686,3 +686,6 @@ body.theme-pastel .spinner:before{background-color:#ff941e}
 	header img{max-height:96px}
 	#dialog-settings, #rom-patcher-dialog-zip{min-width: auto;}
 }
+
+#zero-fusion-status.zero-fusion-ok { color: #4caf50; }
+#zero-fusion-status.zero-fusion-error { color: #f44336; }
